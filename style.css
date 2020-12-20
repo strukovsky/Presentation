@@ -1,0 +1,82 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+.Frame
+{
+    height: 100vh;
+}
+
+#first
+{
+    background: #181818;
+
+}
+
+#third
+{
+    background: #ffc107;
+}
+
+#fifth
+{
+    background: #181818;
+}
+
+#first *
+{
+    color: wheat;
+}
+#fifth *
+{
+    color: wheat;
+}
+
+#sixth
+{
+    background: #ffc107;
+    height: 150vh;
+}
+
+
+.Title
+{
+    font-family: "SF PRO";
+    font-size: 50pt;
+    color: black;
+}
+
+.LittleTitle
+{
+    font-family: "SF PRO";
+    font-size: 20pt;
+    color: black;
+}
+
+.Logo
+{
+    backdrop-filter: blur(5px);
+}
+
+.LogoText
+{
+    font-family: "Trajan Pro 3";
+    font-size: 36pt;
+}
+
+.BackgroundBomb
+{
+    background-image: url("img/Bomb.png");
+    background-repeat: repeat;
+}
+
+p{
+    font-family: "Noto Serif";
+    font-size: 20pt;
+}
+
+#third p
+{
+    margin-bottom: 50px;
+}
